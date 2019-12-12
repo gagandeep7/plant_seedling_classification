@@ -13,6 +13,6 @@ This project requires Python 3.5 or later and the following Python libraries ins
 [Keras]
 You will also need to have software installed to run and execute a colab notebook or jupyter notebook
 # CODE
-A template notebook is provided as FINAL_seedling.ipynb
+A template notebook is provided as Seedling_Classification_using_CNN(V13_0_95).ipynb
 # dataset
 you can find the plant seedling data set at https://www.kaggle.com/c/plant-seedlings-classification/data
